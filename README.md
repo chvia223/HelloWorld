@@ -3,7 +3,7 @@
 
 This is a simple Hello World program. The intended purpose of this project was to demonstrate the combined use of Python, Visual Studio Code, and Git / GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZMIMrovhJnc)
 
 # Development Environment
 
